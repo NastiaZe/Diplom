@@ -3,7 +3,7 @@
 * [Summary](https://github.com/BelyakovArkadiy/Diplom/blob/master/reports/Summary.md)
 
 ## Процедура запуска тестов сервиса покупки путешествий для MySql
-* Клонировать [репозиторий](https://github.com/BelyakovArkadiy/Diplom-draft) на свой компьютер.
+* Клонировать [репозиторий](https://github.com/NastiaZe/Diplom.git) на свой компьютер.
 * Открыть его с помощью JetBrains IntelliJ IDEA 
 * Запускаем контейнеры MySql и Node c помощью команды docker-compose up -d --force-recreate.
 * Проверяем, что контейнеры запустились командой docker-compose ps.
