@@ -1,9 +1,9 @@
-* [Plan](https://github.com/BelyakovArkadiy/Diplom-draft/blob/master/reports/Plan.md)
-* [Report](https://github.com/BelyakovArkadiy/Diplom/blob/master/reports/Report.md)
-* [Summary](https://github.com/BelyakovArkadiy/Diplom/blob/master/reports/Summary.md)
+* [Plan](https://github.com/NastiaZe/Diplom/blob/main/reports/Plan.md)
+* [Report](https://github.com/NastiaZe/Diplom/blob/main/reports/Report.md)
+* [Summary](https://github.com/NastiaZe/Diplom/blob/main/reports/Summary.md)
 
 ## Процедура запуска тестов сервиса покупки путешествий для MySql
-* Клонировать [репозиторий](https://github.com/NastiaZe/Diplom.git) на свой компьютер.
+* Клонировать на свой компьютер.
 * Открыть его с помощью JetBrains IntelliJ IDEA 
 * Запускаем контейнеры MySql и Node c помощью команды docker-compose up -d --force-recreate.
 * Проверяем, что контейнеры запустились командой docker-compose ps.
@@ -15,7 +15,7 @@
 
 
 ## Процедура запуска тестов сервиса покупки путешествий для PostgreSQL
-* Клонировать [репозиторий](https://github.com/BelyakovArkadiy/Diplom-draft) на свой компьютер.
+* Клонировать [репозиторий](https://github.com/NastiaZe/Diplom) на свой компьютер.
 * Открыть его с помощью JetBrains IntelliJ IDEA 
 * Запускаем контейнеры PostgreSQL и Node c помощью команды docker-compose up -d --force-recreate.
 * Проверяем, что контейнеры запустились командой docker-compose ps.
